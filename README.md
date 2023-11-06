@@ -9,4 +9,5 @@ This is a simple frog game implemented in python using the pygame library. See i
 - lives tracking.
 ## Installation
 1.clone this repository:
-
+  '''bash
+  
