@@ -127,7 +127,7 @@ menu_options = ["Start Game", "Instructions", "Quit"]
 selected_option = 0
 
 # Load the music file
-sound = pygame.mixer.Sound("Music/game.mp3")
+sound = pygame.mixer.Sound("Music/Free Money.mp3")
 sound.play(-1)
 
 # Game loop
