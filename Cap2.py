@@ -173,7 +173,6 @@ while running:
             "Use the arrow keys to move the frog.",
             "Avoid the cars and jump on the logs and turtles to cross the river.",
             "Reach the other side to win the game.",
-            "",
             "Press Backspace to go back to the main menu."
         ]
         for i, line in enumerate(instructions):
